@@ -146,3 +146,4 @@
 /Users/fernandodemedeirossilva/Developer/Projects/ElectronicsApi/api/bin/Debug/net8.0/MailKit.dll
 /Users/fernandodemedeirossilva/Developer/Projects/ElectronicsApi/api/bin/Debug/net8.0/MimeKit.dll
 /Users/fernandodemedeirossilva/Developer/Projects/ElectronicsApi/api/bin/Debug/net8.0/System.Formats.Asn1.dll
+/Users/fernandodemedeirossilva/Developer/Projects/ElectronicsApi/api/obj/Debug/net8.0/api.sourcelink.json

@@ -161,3 +161,4 @@
 /Users/fernandodemedeirossilva/Developer/Projects/ElectronicsApi/apiTest/obj/Debug/net8.0/apiTest.pdb
 /Users/fernandodemedeirossilva/Developer/Projects/ElectronicsApi/apiTest/obj/Debug/net8.0/apiTest.genruntimeconfig.cache
 /Users/fernandodemedeirossilva/Developer/Projects/ElectronicsApi/apiTest/obj/Debug/net8.0/ref/apiTest.dll
+/Users/fernandodemedeirossilva/Developer/Projects/ElectronicsApi/apiTest/obj/Debug/net8.0/apiTest.sourcelink.json
