@@ -16,7 +16,7 @@ Backend part of the electronic store application. The following core dependencie
 - JWT contains only the necessary information for authentication and authorization
 - JWT is validated by Microsoft JWT dependencies
 - Refresh token is saved in Users table for validation
-- Refreah token is set to front-end as HTTP-only
+- Refresh token is set to front-end as HTTP-only
 
 #Email
 
@@ -34,6 +34,9 @@ Mailkit dependecy allows:
 Users can perform the following actions:
 - Add/update/delete product reviews
 - Add/update/delete products from cart
+- See products
+- Filter prodcuts by category and brand
+- Search products by name
 
 #Admin
 
