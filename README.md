@@ -3,6 +3,7 @@
 - Programing language: C#
 - Framework: Entity Framework
 - Database: SQL Server
+- Repository-Controller pattern
 
 Backend part of the electronic store application. The following core dependencies were used:
 - Microsoft Authentication JWT Bearer
