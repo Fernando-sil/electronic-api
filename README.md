@@ -31,6 +31,11 @@ Mailkit dependecy allows:
 - Cart is automatically created for new users
 - Payment preocess to empty cart must be implemented
 
+## Product reviews
+
+- Users can add only 1 review to a product
+- Users can only edit and delete their on reviews
+
 #User
 
 Users can perform the following actions:
