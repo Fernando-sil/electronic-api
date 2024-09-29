@@ -29,6 +29,7 @@ Mailkit dependecy allows:
 
 - User can only add items to cart when registered
 - Cart is automatically created for new users
+- Payment preocess to empty cart must be implemented
 
 #User
 
